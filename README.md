@@ -118,9 +118,9 @@ with Listener(on_press=on_press, on_release=on_release) as listener:
 
 ## 🖥️ Execução do Keylogger
 
-![Terminal](Terminal.jpg)
+![Terminal](Terminal.JPG)
 
-![Telegram Log](Telegram.jpg)
+![Telegram Log](Telegram.JPG)
 
 ## 🛡️ Medidas de Defesa e Prevenção
 
